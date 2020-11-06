@@ -5,7 +5,7 @@ import random
 import re
 
 client = commands.Bot(command_prefix='.')
-Token = 'NzU2MTU5NDYyMzU5Njk1NDYw.X2NyYA.Q_1xhIcr2WZ6gMayu9cTSP-ECwM'
+Token = 'YOUR DISCORD BOT TOKEN'
 client.remove_command('help')
 
 @client.event
